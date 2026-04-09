@@ -1,4 +1,4 @@
-desktop.ini
+**/desktop.ini
 .venv
 **/__pycache__/
 data/
